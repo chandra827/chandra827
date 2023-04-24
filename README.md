@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="1000" height="400" src="https://camo.githubusercontent.com/cdc9f911347b8fb8f066e59c387054c1b56b0c4c9343624a368ba0a5516c0ab7/68747470733a2f2f7732776562736f6c7574696f6e732e636f6d2f696d616765732f66756c6c737461636b646576656c6f7065722e676966">
 <h1 align="center">Hi 👋, I'm Chandra Shekhar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+<img align="right" alt="coding" width="150" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandra827" alt="chandra827" /></a> </p>
 
