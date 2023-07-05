@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandra827?tab=repositories](https://github.com/chandra827?tab=repositories)
 
-- 💬 Ask me about **JAVA, OOPS, DBMS, HTML,CSS, JS**
+- 💬 Ask me about **JAVA, OOPS, DBMS, HTML,CSS, JS, NODEJS, EJS**
 
 - 📫 How to reach me **chandra827009@gmail.com**
 
